@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "План действий.md",
+                "file": "Resources/Resources Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "План действий"
+              "title": "Resources Home"
             }
           },
           {
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "План действий.md",
+                "file": "Resources/Resources Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для План действий"
+              "title": "Обратные ссылки для Resources Home"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "План действий.md",
+                "file": "Resources/Resources Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из План действий"
+              "title": "Исходящие ссылки из Resources Home"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "План действий.md",
+                "file": "Resources/Resources Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура План действий"
+              "title": "Структура Resources Home"
             }
           }
         ]
@@ -213,12 +213,40 @@
   },
   "active": "2a2a08e39ea6b976",
   "lastOpenFiles": [
-    "Программирование.md",
-    "Книги.md",
-    "Resurs list.md",
+    "Resources/views/По программированию.md",
+    "Resources/views/По медицине.md",
+    "Resources/views/По исламу.md",
+    "Resources/views/Все ресурсы.md",
+    "Resources/taxonomy/subcategories2.md",
+    "Resources/taxonomy/types.md",
+    "Resources/taxonomy/categories.md",
+    "Resources/taxonomy/subcategories1.md",
+    "Resources/taxonomy/types/Книга.md",
+    "Resources/taxonomy/types/Видео.md",
+    "Resources/taxonomy/subcategories1/Анатомия.md",
+    "Resources/taxonomy/subcategories2/Нервная система.md",
+    "Resources/attachments",
+    "Resources/items",
+    "Resources/taxonomy/subcategories1/Backend.md",
+    "Resources/taxonomy/subcategories1/Aqidah.md",
+    "Resources/taxonomy/categories/Программирование.md",
+    "Resources/taxonomy/categories/Медицина.md",
+    "Resources/taxonomy/categories/Ислам.md",
     "План действий.md",
-    "MUSLIMNET.md",
-    "Network save.md",
-    "Без названия.md"
+    "Resources/views/Проверка качества.md",
+    "Resources/views",
+    "Resources/Resources Home.md",
+    "Resources/taxonomy/subcategories2/Хадисы.md",
+    "Resources/taxonomy/subcategories2/Python.md",
+    "Resources/taxonomy/subcategories2",
+    "Resources/taxonomy/subcategories1",
+    "Resources/taxonomy/categories",
+    "Resources/taxonomy/types",
+    "Resources/taxonomy",
+    "Resources/templates/Подкатегория 2 - шаблон.md",
+    "Resources/templates/Подкатегория 1 - шаблон.md",
+    "Resources/templates/Категория - шаблон.md",
+    "Resources/templates",
+    "Resources"
   ]
 }
