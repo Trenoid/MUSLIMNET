@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "TEST 2"
 fileClass: resource
 type: "[[Видео]]"
 category: "[[Программирование]]"
@@ -9,14 +9,14 @@ source_url: ""
 language: "ru"
 status: "new"
 added_by: ""
-created: {{date:YYYY-MM-DD}}
-updated: {{date:YYYY-MM-DD}}
+created: 2026-03-12
+updated: 2026-03-12
 tags:
   - resource
 description: ""
 ---
 
-# {{title}}
+# TEST 2
 
 ## Кратко
 Краткое описание ресурса.

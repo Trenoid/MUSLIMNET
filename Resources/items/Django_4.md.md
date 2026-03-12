@@ -1,22 +1,21 @@
 ---
-title: "{{title}}"
-fileClass: resource
+title: "Django.md"
 type: "[[Видео]]"
 category: "[[Программирование]]"
 subcategory_1: "[[Backend]]"
 subcategory_2: "[[Python]]"
 source_url: ""
 language: "ru"
-status: "new"
+status: "new" # new | checked | uploaded | archived
 added_by: ""
-created: {{date:YYYY-MM-DD}}
-updated: {{date:YYYY-MM-DD}}
+created: 2026-03-12
+updated: 2026-03-12
 tags:
   - resource
 description: ""
 ---
 
-# {{title}}
+# Django.md
 
 ## Кратко
 Краткое описание ресурса.

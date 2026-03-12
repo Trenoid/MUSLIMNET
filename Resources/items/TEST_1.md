@@ -1,22 +1,22 @@
 ---
-title: "{{title}}"
+title: TEST_1
 fileClass: resource
-type: "[[Видео]]"
+type: "[[Книга]]"
 category: "[[Программирование]]"
 subcategory_1: "[[Backend]]"
 subcategory_2: "[[Python]]"
 source_url: ""
-language: "ru"
-status: "new"
+language: ru
+status: new
 added_by: ""
-created: {{date:YYYY-MM-DD}}
-updated: {{date:YYYY-MM-DD}}
+created: 2026-03-12
+updated: 2026-03-12
 tags:
   - resource
 description: ""
 ---
 
-# {{title}}
+# TEST_1
 
 ## Кратко
 Краткое описание ресурса.
