@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "TEST 2"
             }
-          },
-          {
-            "id": "af4423bd6ebb39b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MUSLIMNET.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MUSLIMNET"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,15 +215,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "af4423bd6ebb39b4",
+  "active": "609109e26acceb80",
   "lastOpenFiles": [
+    "Resurs list.md",
+    "Network save.md",
+    "MUSLIMNET.md",
+    "Программирование.md",
+    "План действий.md",
+    "Книги.md",
     "TEST 2.md",
+    "Без названия.md",
+    "Без названия 1.md",
+    "Без названия.canvas",
+    "files/excalidraw_12-03-2026.png",
+    "files",
     "Resources/items/TEST_1.md",
     "Resources/items/Django_4.md.md",
-    "MUSLIMNET.md",
     "Resources/taxonomy/types/Книга.md",
-    "Без названия 1.md",
-    "Программирование.md",
     "Resources/fileclasses/resource.md",
     "Resources/fileclasses",
     "Resources/views/Все ресурсы.md",
@@ -248,25 +242,18 @@
     "Resources/taxonomy/types.md",
     "Resources/taxonomy/types/Видео.md",
     "Resources/templates/Категория - шаблон.md",
-    "Без названия.canvas",
     "Resources/README.md",
     "Resources/Resources Home.md",
     "Resources/taxonomy/subcategories2.md",
     "Resources/taxonomy/categories.md",
     "Resources/taxonomy/subcategories1.md",
-    "Resources/taxonomy/subcategories1/Анатомия.md",
-    "Resources/taxonomy/subcategories2/Нервная система.md",
     "Resources/attachments",
     "Resources/items",
-    "Resources/taxonomy/subcategories1/Backend.md",
-    "Resources/taxonomy/subcategories1/Aqidah.md",
-    "Resources/taxonomy/categories/Программирование.md",
     "Resources/views",
     "Resources/taxonomy/subcategories2",
     "Resources/taxonomy/subcategories1",
     "Resources/taxonomy/categories",
     "Resources/taxonomy/types",
-    "Resources/taxonomy",
-    "Resources/templates"
+    "Resources/taxonomy"
   ]
 }
